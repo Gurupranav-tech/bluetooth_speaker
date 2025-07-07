@@ -1,4 +1,7 @@
 # ESP32 Bluetooth Audio Receiver with OLED Display
+![GitHub Created At](https://img.shields.io/github/created-at/Gurupranav-tech/bluetooth_speaker)
+![GitHub contributors](https://img.shields.io/github/contributors/Gurupranav-tech/bluetooth_speaker)
+![GitHub License](https://img.shields.io/github/license/Gurupranav-tech/bluetooth_speaker)
 
 This project demonstrates how to use an ESP32 as a Bluetooth A2DP sink to receive audio, output it via I2S, and display song metadata (title and artist) on an OLED screen.
 
